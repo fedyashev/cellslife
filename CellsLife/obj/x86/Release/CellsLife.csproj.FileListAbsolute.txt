@@ -1,0 +1,4 @@
+C:\workspace\C#\Sysberry\CellsLife\CellsLife\bin\Release\CellsLife.exe
+C:\workspace\C#\Sysberry\CellsLife\CellsLife\bin\Release\CellsLife.pdb
+C:\workspace\C#\Sysberry\CellsLife\CellsLife\obj\x86\Release\CellsLife.exe
+C:\workspace\C#\Sysberry\CellsLife\CellsLife\obj\x86\Release\CellsLife.pdb
